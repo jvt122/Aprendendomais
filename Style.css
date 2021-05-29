@@ -1,0 +1,71 @@
+#fundo{
+
+	background-image: url("imagens/fundo.png");
+	
+}
+
+#menu{
+
+	background-color: #b5b28a;
+    display: flex;
+    width: 865px; 
+    padding: 1.5%;
+    position: absolute;
+    left: 6px;
+    top: 390px;
+    justify-content: center;
+
+
+    
+
+
+}
+
+.itensmenu{
+
+	color: #33384f;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: 900;
+	border-style: solid;
+	border-color: #33384f;
+	border-width: 0px 4px 0px 0px;
+	margin: auto;
+	max-width: 865px;
+
+
+	
+}
+
+.paragrafos{
+
+	color: #000000;
+	background-color: #fbf4d9;
+	font-size: 16px;
+	position: absolute;
+	width: 851px;
+	text-align: justify;
+	text-indent: 16px;
+	padding: 2%;
+	top: 474px;
+	opacity: 82%;
+	line-height: 1.5;
+
+}
+
+.fotos{
+
+	border-style: solid;
+	border-color: #b5b28a;
+	border-width: 4px;
+
+
+}
+
+.h2{
+ 
+ font-size: 2em;
+ color: #b5b28a;
+
+}
